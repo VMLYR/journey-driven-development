@@ -1,0 +1,14 @@
+.*.pdf
+.*.mobi
+.*.epub
+.*.html
+-*.epub
+*.swp
+latex/*
+!latex/makepdf
+!latex/README
+!latex/template.tex
+!latex/config.yml
+epub/temp
+*~
+.#*
