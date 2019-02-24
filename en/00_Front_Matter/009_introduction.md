@@ -16,4 +16,3 @@ Goals:
 1. Make high quality software fast.
 2. Make it easy to learn our process.
 3. Make it easy to modify our process.
-4. Continuously and incrementally improve the above goals measurably.
