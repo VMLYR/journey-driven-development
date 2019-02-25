@@ -1,4 +1,4 @@
-# People Matter
+## People Matter
 
 See also:
 

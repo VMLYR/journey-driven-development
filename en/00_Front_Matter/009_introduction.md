@@ -1,7 +1,7 @@
 
 <!-- Introduction: An introduction lists the goals and the purpose of the book.-->
 
-# Introduction
+## Introduction
 
 Journey Driven Development (JDD) is our attempt to codify how we create software for clients at VMLY&R. The phrase, 'for clients,' is important to us as it reminds us that our clients judge our work not only by how it runs but also by examining its source code critically as it was developed for hire.
 
