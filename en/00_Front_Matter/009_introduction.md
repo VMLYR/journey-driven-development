@@ -18,6 +18,8 @@ Goals:
 
 ### Why Journey Driven
 
+_More to come._
+
 ### How We Develop
 
 Perhaps the first written version of Journey Driven Development began as a one-page brief when a team that had been high-performing began to stumble. The memo served as a starting point for many other teams to define their process. 
