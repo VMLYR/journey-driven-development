@@ -1,4 +1,5 @@
-.*.pdf
+.DS_Store
+*.pdf
 .*.mobi
 .*.epub
 .*.html
