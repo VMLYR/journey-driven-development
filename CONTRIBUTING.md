@@ -10,6 +10,8 @@ We want a simple conversational style. We want to write with one voice. We don't
 
 Use the [Google Developer Documentation Style Guide](https://developers.google.com/style/). We like this guide because it is freely available online, has a [CC BY](https://creativecommons.org/licenses/by/3.0/), and it leverages [other good style resources](https://developers.google.com/style/resources).
 
+None of the above deal with how to cite things (so we can have a nice footnotes and a bibliography). Use Chris Krycho's recommendations for [Academic Markdown and Citations](https://www.chriskrycho.com/2015/academic-markdown-and-citations.html).
+
 ## Pull Request Process
 
 1. You may merge the Pull Request in once you have the sign-off of two other authors, or if you do not have permission to do that, you may request the second reviewer to merge it for you.
