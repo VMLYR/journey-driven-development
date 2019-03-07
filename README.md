@@ -81,5 +81,4 @@ This work is copyright VMLY&R. The primary author and editor works at VMLY&R. At
 
 ## Acknowledgments
 
-* The [Pro Git book](https://github.com/progit/progit2) inspired us to use Pandoc for this.
-
+See the [Acknowledgements section from the front-matter of the book](en/00_Front_Matter/009_acknowledgements.md).
