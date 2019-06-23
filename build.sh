@@ -7,11 +7,11 @@ for i in */ ; do
       cat $j ;
       echo ; 
    done ;
-done | pandoc                        \
-  --toc                              \
-  --filter pandoc-citeproc           \
+done | pandoc                           \
+  --toc                                 \
+  --filter pandoc-citeproc              \
   --bibliography=../_references.bibtex  \
-  --number-sections                  \
-  --top-level-division=part          \
-  --output=../A_JDD_Book.pdf         \
+  --number-sections                     \
+  --top-level-division=part             \
+  --output=../A_JDD_Book.pdf            \
   -
