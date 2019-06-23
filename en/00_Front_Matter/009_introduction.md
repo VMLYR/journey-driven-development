@@ -26,8 +26,8 @@ For the experience platform, JDD uses a technique we call Content Rocket. Conten
 
 None of this is completely foreign. We are informed and influenced by the conversations in our software development community. These conversations happen at conferences, in chat rooms, on blogs, and in books like this one. Here are some of our influences:
 
-1. Agile Manifesto
-1. Software as Craft
+1. [Agile Manifesto](https://agilemanifesto.org/)
+1. [Software Development as Craft](http://wiki.c2.com/?SoftwareDevelopmentAsCraft)
 1. DevOps
 1. Automation
 1. Domain Driven Design
