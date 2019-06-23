@@ -18,15 +18,25 @@ Goals:
 
 ### Why Journey Driven
 
-We discovered JDD and we teach it to our clients as it is easy to adopt in parts or as a holistic transformation. We’ve applied JDD for large-scale transformation efforts in automotive, telecommunications, travel, finance, transportation, and construction. 
+We discovered JDD and we teach it to our clients as it is easy to adopt in parts or as a holistic transformation. We’ve applied JDD for large-scale transformation efforts in automotive, telecommunications, travel, finance, transportation, and construction.
 
-JDD begins with API Forward, which simplifies complex systems integration. API Forward is event driven focusing on the events arising from the user journey. We map these events through lightweight orchestration via a forward facing facade. We implement this in a messaging system. That keeps the complexity of two way transactions away from our experience platform. See API Forward topic for details. <!-- todo: add link -->
+JDD begins with API Forward, which simplifies complex systems integration. API Forward is event-driven, focusing on the events arising from the user journey. We map these events through lightweight orchestration via a forward facing facade. We implement the facade in a messaging system. That keeps the complexity of transactions away from our experience platform. See API Forward topic for details. <!-- todo: add link -->
 
-For the experience platform, JDD uses a technique we call Content Rocket. Content Rocket also begins with the user journey, specifically the audiences and moments discovered by our Content Systems practice. We map these to reusable content components that we can combine in different ways to both allow for specialization and maximize reuse. We’ve mapped Content Rocket to all of the major experience platforms See Content Rocket topic for details. <!-- todo: add link -->
+For the experience platform, JDD uses a technique we call Content Rocket. Content Rocket also begins with the user journey, specifically the audiences and moments discovered by our Content Systems practice. We map these to reusable content components that we can combine in different ways to both allow for specialization and maximize reuse. We’ve mapped Content Rocket to all of the major experience platforms. See Content Rocket topic for details. <!-- todo: add link -->
 
-By focusing first on our method instead of a stack our lessons learned are widely applicable. JDD also improves our scalability by including a focus on Automation of Quality (AQ) and Technical Operations (TO). We have more than 50 team leads skilled in this method which means we can quickly divide and conquer to bring timelines in and tackle emergent opportunities as they arise.
+None of this is completely foreign. We are informed and influenced by the conversations in our software development community. These conversations happen at conferences, in chat rooms, on blogs, and in books like this one. Here are some of our influences:
 
-Bringing all of this together has enabled DevOps through JDD which has led to dramatic improvements in delivery. At one client, we moved them from 10 releases per year to as many as 10 releases per day in production using canary releases with a dramatic increase in quality: we had a 10 month stretch of production releases with no severity 1 or 2 defects reported (a company best).
+1. Agile Manifesto
+1. Software as Craft
+1. DevOps
+1. Automation
+1. Domain Driven Design
+1. Behavior Driven Development
+1. Test Driven Development
+
+We have more than 50 team leads skilled in this method which means we can quickly divide and conquer to bring timelines in and tackle emergent opportunities as they arise. We've thought a lot about how to create and empower teams so that both experimentation and collective learning grow as your team expands.
+
+Bringing all of this together has enabled DevOps through JDD which has led to dramatic improvements in delivery. At one client, we moved them from 10 releases per year to more than 10 releases per day in production using canary releases with a dramatic increase in quality: we had a 10 month stretch of production releases with no severity 1 or 2 defects reported (a company best).
 
 ### How We Develop
 
@@ -94,6 +104,3 @@ Key Points
 - Do a practice run to see what is working well and what is still in progress.
 - Invite AM, PM, & Creative to the practice run so they understand what the client is going to see.
 - If you have significant issues, reschedule
-
-#### See also:
-- [Agile Manifesto](http://agilemanifesto.org/)
