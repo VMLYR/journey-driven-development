@@ -26,13 +26,14 @@ For the experience platform, JDD uses a technique we call Content Rocket. Conten
 
 None of this is completely foreign. We are informed and influenced by the conversations in our software development community. These conversations happen at conferences, in chat rooms, on blogs, and in books like this one. Here are some of our influences:
 
-1. [Agile Manifesto](https://agilemanifesto.org/)
-1. [Software Development as Craft](http://wiki.c2.com/?SoftwareDevelopmentAsCraft)
-1. DevOps
+1. Agile [@rasmusson_agile_2014] generally and eXtreme Programming [@beck_extreme_2000] in particular
+1. Software Development as Craft [@cunningham_software_2005]
+1. DevOps [@kim_devops_2016]
 1. Automation
-1. Domain Driven Design
-1. Behavior Driven Development
-1. Test Driven Development
+1. Responsibility Driven Design (RDD)
+1. Domain Driven Design (DDD)
+1. Behavior Driven Development (BDD)
+1. Test Driven Development (TDD)
 
 We have more than 50 team leads skilled in this method which means we can quickly divide and conquer to bring timelines in and tackle emergent opportunities as they arise. We've thought a lot about how to create and empower teams so that both experimentation and collective learning grow as your team expands.
 
