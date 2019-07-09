@@ -32,7 +32,7 @@ Bringing all of this together has enabled DevOps through JDD which has led to dr
 
 Perhaps the first written version of Journey Driven Development began as a one-page brief when a team that had been high-performing began to stumble. The memo served as a starting point for many other teams to define their process. 
 
-Below is a recent fork of this topic:
+What follows is one fork of that document:
 
 #### Start
 
