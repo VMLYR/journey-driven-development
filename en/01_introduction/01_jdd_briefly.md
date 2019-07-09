@@ -33,11 +33,6 @@ None of this is completely foreign. We are informed and influenced by the conver
 1. Behavior Driven Development (BDD)
 1. Test Driven Development (TDD)
 
-
-We have more than 50 team leads skilled in this method which means we can quickly divide and conquer to bring timelines in and tackle emergent opportunities as they arise. We've thought a lot about how to create and empower teams so that both experimentation and collective learning grow as your team expands.
-
-Bringing all of this together has enabled DevOps through JDD which has led to dramatic improvements in delivery. At one client, we moved them from 10 releases per year to more than 10 releases per day in production using canary releases with a dramatic increase in quality: we had a 10 month stretch of production releases with no severity 1 or 2 defects reported (a company best).
-
 ### How We Develop
 
 Perhaps the first written version of Journey Driven Development began as a one-page brief when a team that had been high-performing began to stumble. The memo served as a starting point for many other teams to define their process. 
@@ -104,3 +99,9 @@ Key Points
 - Do a practice run to see what is working well and what is still in progress.
 - Invite AM, PM, & Creative to the practice run so they understand what the client is going to see.
 - If you have significant issues, reschedule
+
+### Scale
+
+We have more than 50 team leads skilled in this method which means we can quickly divide and conquer to bring timelines in and tackle emergent opportunities as they arise. We've thought a lot about how to create and empower teams so that both experimentation and collective learning grow as your team expands.
+
+Bringing all of this together has enabled DevOps through JDD which has led to dramatic improvements in delivery. At one client, we moved them from 10 releases per year to more than 10 releases per day in production using canary releases with a dramatic increase in quality: we had a 10 month stretch of production releases with no severity 1 or 2 defects reported (a company best).
