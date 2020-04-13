@@ -25,24 +25,3 @@ Next the team goes through an exercise of looking at each category and estimatin
 1.4 ESTABLISH TOTAL SCOPE 
 
 We pick a scale to assign numerical weight values to the categories. A scale based on the Fibonacci sequence is used most often (grape = 2, strawberry = 3, orange = 5, pineapple = 8, watermelon = 13). The first step toward total scope is to calculate the value per fruit category by multiplying the number of stories by the corresponding numerical weighting. Total the values across the row and this value becomes your total scope.
-
-1.5 ESTABLISH POTENTIAL TARGET VELOCITY AND TARGET VELOCITY
-
-Look back at scenarios a, b, c, d and calculate a PTV or “potential target velocity” for each. We average those to come up with a single PTV for each size category. The final step is to establish the target velocity using a weighted average and add up the PTV values to get the weight value. Per size category, divide the PTV by the weight. Sum up that row, and you have your target velocity.
-
-![Illustration of velocity calculations.](agile_release_planning/project_x_target_velocity_exercise.png)
-
-With the target velocity (TV), we have an estimated number of points that can be delivered per sprint based on an assumed team composition (the assumptions that existed during step 1). 
-ESTABLISH BASE TARGET VELOCITY - The first step in release planning is to adjust the TV to match with the team that will do the work. For example, if the TV of 39 was based on a team of 2 developers, but 4 will be on the scrum team, adjust the TV to 78. Plot that value in a matrix of 2 week sprints as your Base TV. This figure uses a Base TV of 78. 
-
-![Illustration of base target velocity.](agile_release_planning/establish_base_target_velocity.png)
-
-ACCOUNT FOR DRAG - Next we establish a Drag Factor, which is the percent of time spent by typical development teams on tasks other than coding: ramp-up time, time spent learning how to work together, code reviews, new technologies, “spikes” in early phases, etc. We calculate the points after the drag factor is applied. 
-
-![Illustration of drag factor.](agile_release_planning/account_for_drag.png)
-
-ACCOUNT FOR TIME AWAY - If we are starting with a smaller team than we will have eventually when all are ramped up, or to account for PTO, we may need to account for that with a percentage of the team present 
-
-![Illustration of time away.](agile_release_planning/account_for_time_away.png)
-
-ASSIGN STORIES TO SPRINTS TO PLAN THE RELEASE - Now we have a point value per sprint to plan for. This is the point at which having the stories ranked in priority order by the product owner is critical. We begin to plan stories into sprints according to which ones add the most value first and which ones carry the most risk. We have the staffing numbers to multiply out rates and costs per sprint and total for the release. Because this is a plan that has not yet been executed, we often give a range at this point, but as sprints progress and measurements are taken, we will be able to predict with certainty the values we need to (cost, release date, etc., depending on what is fixed and what is fluid).
