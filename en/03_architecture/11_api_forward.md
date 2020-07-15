@@ -16,7 +16,7 @@ This makes sense for sites that are purely informational. As sites begin to offe
 2. CMS-hosted services. Host your custom services alongside your CMS' existing "headless" content services. Convenient in the near term. Prefer API Forward as scale or complexity increase. <!--Name antipattern and explore in depth-->
 3. API Forward or something similar with a different name. You may derive API Forward from first principles. Related patterns like [Service Facade](https://www.ibm.com/support/knowledgecenter/pt-br/SSMKHH_9.0.0/com.ibm.etools.mft.pattern.sen.doc/sen/sf/overview.htm), [Facade](https://en.wikipedia.org/wiki/Facade_pattern) and [Front Controller](https://en.wikipedia.org/wiki/Front_controller) share some structure and consequences. Consider API Forward as a framework to evaluate your solution's fit for modern marketing.
 
-In short, consider API Forward as you move from content-only websites. Specifically as you add commerce, other transactions, or even as you add things like chatbots as conversational state and transactional state are analagous.
+In short, consider API Forward as you move from content-only websites. Specifically as you add commerce, other transactions, or even as you add things like chatbots as conversational state and transactional state are analogous.
 
 ### Forward of Systems of Record
 
@@ -26,7 +26,7 @@ When logically organizing architectural components for modern marketing, several
 
 1. CMS at the center<!-- Unintentional Mediator-->
 1. Stranger Danger <!-- Law of Demeter, Don't Talk to Strangers, Skipping Cake Layers-->
-1. API Forward <!-- Effective Mediator>
+1. API Forward <!-- Effective Mediator-->
 
 ### Forward in Time
 
