@@ -67,14 +67,3 @@ Build on the ERD created and database schema. If an RDBMS is needed, a schema is
 
 ##### 3. Create a caching strategy
 Data access patterns and available technologies should drive the definition of a caching strategy. The performance-focused NFRs should be an input to the caching strategy. Identify available cache solutions, such as Akamai and Redis, to address data at different architecture levels.  Describe a caching strategy by detailing use-case scenarios around data access, caching, and eviction policies. 
-
-### Document the decisions
-A technical decision may be "architecturally significant" due to its potential for long-lasting impact. Context is lost as projects evolve, and it is vital to capture the architectural decisions made. Preserve essential aspects through the design process with Architecture Decision Records.
-
-#### Architecture Decision Record
-Capture architecture decisions with an (Architecture Decision Record)[https://github.com/joelparkerhenderson/architecture_decision_record/blob/master/adr_template_by_michael_nygard.md]. The format consists of a minimal set of information needed to understand:
-factors that influence a decision
-specific items decided
-anticipated outcomes of the decision
-
-
