@@ -34,9 +34,25 @@ Running many smaller experiments helps teams manage risk and build resiliency in
 
 ### Technical Practices for DevOps
 
+Often DevOps is associated with the technical practices or tools used for technical practices. 
+Adopting DevOps technical practices in isolation may lead to some positive outcomes; however, the greatest impacts come when these technical practices are combined with the architectural and cultural DevOps practices.
+
+#### CI/CD
+
+Many DevOps discussions begin with Continuous Integration (CI) and Continuous Delivery (CD).  
+CI includes practices of constantly integrating branches back into main branch.  
+Short-lived branches reduce the batch sizes of changes coming back into the main branch and reduce the risk of conflicts when merging branches or pull requests. 
+
+#### Automated Testing
+
+#### Infrastructure as Code (IAC)
 
 
 ### Architectural Practices for DevOps
+
+#### Observability
+
+#### Resiliency 
 
 ### Cultural Practices for DevOps
 
