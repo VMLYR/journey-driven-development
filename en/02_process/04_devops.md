@@ -25,7 +25,7 @@ Lead time is the amount of time it takes for a feature to move from being an ide
 Optimizing flow depends on reducing the size of work moving through the value stream (i.e. reducing batch size) and building quality into the process.
 
 Feedback loops are essential to improving flow. 
-Feeback loops allow teams to prevent problems from recurring or detect problems more quickly to enable recovery.
+Feedback loops allow teams to prevent problems from recurring or detect problems more quickly to enable recovery.
 Without Feedback teams cannot learn or improve.
 
 Building off of Flow and Feedback loops, teams experiment with improving flow and use feedback loops to learn if an experiment is successful or not.
@@ -52,5 +52,4 @@ Running many smaller experiments helps teams manage risk and build resiliency in
 See also:
 
 1. *The DevOps Handbook: How to Create World-Class Agility, Reliability, & Security in Technology Organizations*, Gene Kim, Jez Humble, Patric Debois & John Willis
-1.*The Phoenix Project: A Novel about IT, DevOps, and Helping Your Business Win*, Gene Kim, Keven Behr, and George Spafford 
-fea
+1. *The Phoenix Project: A Novel about IT, DevOps, and Helping Your Business Win*, Gene Kim, Keven Behr, and George Spafford 
