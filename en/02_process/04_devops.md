@@ -1,10 +1,12 @@
 ## DevOps
 
-DevOps is a set of technical, architectural, and cultural practices for teams developing and operating the software that enables customer journeys and delivers value.
+DevOps is a set of cultural, architectural, and technical practices for teams developing and operating the software that enables customer journeys and delivers value.
 DevOps applies principles from improvement of physical manufacturing to the IT value stream.
-The technical practices include techniques for automation of application delivery and deployment, infrastructure as code, and automated testing.
+DevOps depends on a culture that breaks down silos between the work of development, operations, quality and security.
 Architecturally, DevOps includes decisions to organize infrastructure and applications for agility and resiliency.
-Finally, DevOps depends on a culture that breaks down silos between the work of development, operations, quality and security.
+The technical practices include techniques for automation of application delivery and deployment, infrastructure as code, and automated testing.
+
+
 
 ### Manufacturing and IT Value Stream
 
@@ -32,6 +34,43 @@ Building off of Flow and Feedback loops, teams experiment with improving flow an
 As these experiments yield success and failures, the team learns how to optimize or change processes to increase speed and safety.
 Running many smaller experiments helps teams manage risk and build resiliency into systems.
 
+### Cultural Practices for DevOps
+You need to work on culture from day 1 
+never finished
+
+Need to address fear of participants (losing my job, losing what is important)
+Really what you can lose toil 
+Goal is to unlock the business knowledge and value by releasing from drudge work
+
+#### Making Work Visible
+
+
+#### Distributed Decision Making
+
+Empowered people making decisions in complex or chaotic systems will find problems
+Assume good intent
+If a fault makes it to prod, that is a failure of the system not a person.
+
+#### Sharing Responsibility to Create Change
+
+
+
+### Architectural Practices for DevOps
+
+We need to recognize that architectural decisions are also a shared discipline.
+Optimal solutions require teams with multiple disciplines and different experiences.
+What is obvious to one architect as a serious risk, may look completely non-consequential to others.
+
+#### Transparency
+
+
+#### Resiliency 
+Observability
+
+#### Evolutionary
+preparing for innovation or open to innovation
+distributed, can change and grow over time, scalable, maintainable
+
 ### Technical Practices for DevOps
 
 Often DevOps is associated with the technical practices or tools used for technical practices. 
@@ -48,23 +87,8 @@ Short-lived branches reduce the batch sizes of changes coming back into the main
 #### Infrastructure as Code (IAC)
 
 
-### Architectural Practices for DevOps
-
-#### Resiliency 
-
-#### Evolutionary
-distributed, can change and grow over time
-
-
-
-### Cultural Practices for DevOps
-
-#### Distributed Decision Making
-Empowered people
-
-#### Making work Visible
-
-#### Sharing Pain to Create Change
+#### Instrumentation
+Code needs to be intrumented in order to allow teams to observe behaviors coming out of a system
 
 ### Metrics for DevOps
 
