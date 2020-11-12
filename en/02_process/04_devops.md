@@ -50,11 +50,21 @@ Short-lived branches reduce the batch sizes of changes coming back into the main
 
 ### Architectural Practices for DevOps
 
-#### Observability
-
 #### Resiliency 
 
+#### Evolutionary
+distributed, can change and grow over time
+
+
+
 ### Cultural Practices for DevOps
+
+#### Distributed Decision Making
+Empowered people
+
+#### Making work Visible
+
+#### Sharing Pain to Create Change
 
 ### Metrics for DevOps
 
