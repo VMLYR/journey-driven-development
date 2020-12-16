@@ -35,8 +35,20 @@ As these experiments yield success and failures, the team learns how to optimize
 Running many smaller experiments helps teams manage risk and build resiliency into systems.
 
 ### Cultural Practices for DevOps
-You need to work on culture from day 1 
-never finished
+
+The "three ways" mentioned above depend on a shared purpose and trust.
+Teams need to make promise and then deliver on those promises in order to build trust.
+That purpose and trust helps drive the change necessary to find new ways of working.
+Trust is vital because new ways of working creates fear around losing jobs or losing importance.
+It may seem counter intuitive that automating repetitive tasks or tearing down silos would cause problems, but building trust is key.
+
+Building or cultivating DevOps culture requires deliberate effort and is more important than the tools used to accomplish tasks.
+Tools without culture are incap
+
+
+
+
+Facilitates patterns of communication between the teams developing and operating the software
 
 Need to address fear of participants (losing my job, losing what is important)
 Really what you can lose toil 
@@ -53,6 +65,7 @@ If a fault makes it to prod, that is a failure of the system not a person.
 
 #### Sharing Responsibility to Create Change
 
+#### Documentation
 
 
 ### Architectural Practices for DevOps
@@ -61,13 +74,13 @@ We need to recognize that architectural decisions are also a shared discipline.
 Optimal solutions require teams with multiple disciplines and different experiences.
 What is obvious to one architect as a serious risk, may look completely non-consequential to others.
 
-#### Transparency
+#### Cooperative Design and Peer Review
+Fed by culture of distributed 
 
-
-#### Resiliency 
+#### Architecting for Resiliency 
 Observability
 
-#### Evolutionary
+#### 
 preparing for innovation or open to innovation
 distributed, can change and grow over time, scalable, maintainable
 
@@ -76,7 +89,7 @@ distributed, can change and grow over time, scalable, maintainable
 Often DevOps is associated with the technical practices or tools used for technical practices. 
 Adopting DevOps technical practices in isolation may lead to some positive outcomes; however, the greatest impacts come when these technical practices are combined with the architectural and cultural DevOps practices.
 
-#### CI/CD
+#### Automated Deployments
 
 Many DevOps discussions begin with Continuous Integration (CI) and Continuous Delivery (CD).  
 CI includes practices of constantly integrating branches back into main branch.  
