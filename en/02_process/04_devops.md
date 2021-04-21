@@ -6,8 +6,6 @@ DevOps depends on a culture that breaks down silos between the work of developme
 Architecturally, DevOps includes decisions to organize infrastructure and applications for agility and resiliency.
 The technical practices include techniques for automation of application delivery and deployment, infrastructure as code, and automated testing.
 
-
-
 ### Manufacturing and IT Value Stream
 
 Physical manufacturing turns raw materials into finished goods for sale.
@@ -37,22 +35,19 @@ Running many smaller experiments helps teams manage risk and build resiliency in
 ### Cultural Practices for DevOps
 
 The "three ways" mentioned above depend on a shared purpose and trust.
-Teams need to make promise and then deliver on those promises in order to build trust.
+Teams need to make promises and then deliver on those promises in order to build trust.
 That purpose and trust helps drive the change necessary to find new ways of working.
 Trust is vital because new ways of working creates fear around losing jobs or losing importance.
-It may seem counter intuitive that automating repetitive tasks or tearing down silos would cause problems, but building trust is key.
+
+As teams look to share information eliminating tribal knowledge and silos, the value people bring shifts.
+No longer are persons valued for being the one person who understands a complicated and fragile system.
+Instead of celebrating the "super heroes" that save the day, automation of tasks classified as toil unlocks the ability to use knowledge to solve business problems. 
+It may seem counter-intuitive that automating repetitive tasks or tearing down silos would cause problems, but building trust is key.
 
 Building or cultivating DevOps culture requires deliberate effort and is more important than the tools used to accomplish tasks.
-Tools without culture are incap
-
-
-
-
-Facilitates patterns of communication between the teams developing and operating the software
-
-Need to address fear of participants (losing my job, losing what is important)
-Really what you can lose toil 
-Goal is to unlock the business knowledge and value by releasing from drudge work
+Focus on a tools (or adoption of tools) likely indicates a missed opportunity to ask questions about how work is happening and how teams are interacting to deliver value.
+That deliberate effort to build and sustain culture is never complete.
+Anti-patterns in behavior reoccur or new challenges surface as the problems teams tasked with developing and operating software change.
 
 #### Making Work Visible
 
