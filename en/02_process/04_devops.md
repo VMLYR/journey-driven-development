@@ -39,18 +39,27 @@ Teams need to make promises and then deliver on those promises in order to build
 That purpose and trust helps drive the change necessary to find new ways of working.
 Trust is vital because new ways of working creates fear around losing jobs or losing importance.
 
-As teams look to share information eliminating tribal knowledge and silos, the value people bring shifts.
-No longer are persons valued for being the one person who understands a complicated and fragile system.
-Instead of celebrating the "super heroes" that save the day, automation of tasks classified as toil unlocks the ability to use knowledge to solve business problems. 
-It may seem counter-intuitive that automating repetitive tasks or tearing down silos would cause problems, but building trust is key.
+As teams share information minimizing tribal knowledge and silos, the value people bring shifts.
+Value shifts from undocumented knowledge of how to manually complete a task to the ability to work together to automate repeatable tasks.
+As manual tasks are automated, teams need to take opportunities to learn and improve as toil and the tyranny of the immediate lift.
+Technology's continual evolution and ever increasing pace of change mean that teams need feedback loops as bottlenecks shift or move.
+Improvements in one area may cause unintended side effects elsewhere.
 
-Building or cultivating DevOps culture requires deliberate effort and is more important than the tools used to accomplish tasks.
+Emphasis on culture (as opposed to tools)
 Focus on a tools (or adoption of tools) likely indicates a missed opportunity to ask questions about how work is happening and how teams are interacting to deliver value.
 That deliberate effort to build and sustain culture is never complete.
 Anti-patterns in behavior reoccur or new challenges surface as the problems teams tasked with developing and operating software change.
 
 #### Making Work Visible
 
+Work that teams do to operate and develop software needs to be visible to management and project leadership.
+When team members do work that originates from email, chat or other avenues that is not centrally tracked the opportunity to learn and search for patterns in work evaporates.
+Too often teams operating software take and complete tasks without recording that work occurred.
+That failure leads to questions about the efficacy of teams and how they are spending their time.
+
+While ticketing systems may at times indicate silos in organizations, work that cannot be seen by team leads and managers is work that cannot be managed.
+A priority must be a honest accounting of the effort necessary to develop and operate any software solution.
+The exact means of that accounting may vary based on the team size and structure; however, failing to make work visible will obscure patterns that may help identify bottlenecks and opportunities for optimization.
 
 #### Distributed Decision Making
 
