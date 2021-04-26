@@ -45,10 +45,11 @@ As manual tasks are automated, teams need to take opportunities to learn and imp
 Technology's continual evolution and ever increasing pace of change mean that teams need feedback loops as bottlenecks shift or move.
 Improvements in one area may cause unintended side effects elsewhere.
 
-Emphasis on culture (as opposed to tools)
-Focus on a tools (or adoption of tools) likely indicates a missed opportunity to ask questions about how work is happening and how teams are interacting to deliver value.
-That deliberate effort to build and sustain culture is never complete.
+Emphasis on culture, as opposed to tools, rightly moves the focus for DevOps efforts from something one purchases to a new ways of working.
+While tools are an important part of any culture, those tools apart from the culture may create problems.
+For example, a centrally managed continuous integration/delivery tool, may just create a new silo instead of empowering teams and fostering collaboration.
 Anti-patterns in behavior reoccur or new challenges surface as the problems teams tasked with developing and operating software change.
+Teams working to build and sustain positive culture realize their work is never complete.
 
 #### Making Work Visible
 
@@ -62,6 +63,14 @@ A priority must be a honest accounting of the effort necessary to develop and op
 The exact means of that accounting may vary based on the team size and structure; however, failing to make work visible will obscure patterns that may help identify bottlenecks and opportunities for optimization.
 
 #### Distributed Decision Making
+
+As teams make work visible and find opportunity, those teams need to be empowered to make changes.
+Trust, built on promises made and delivered, should be matched with goals and direction described in terms of intent and purpose.
+When communication around intent and purpose is not clear enough or when teams make mistakes, those mistakes should be seen as opportunities to learn rather than something to be punished.
+Teams afraid of punishment will hide reasons for failures preventing improvements that might prevent future failures.
+Celebrating and creating a culture of learning must include embracing errors and failures.
+
+For example, deployment of broken code should lead to an investigation of how the failure ocurred and how it might have been avoided.
 
 Empowered people making decisions in complex or chaotic systems will find problems
 Assume good intent
