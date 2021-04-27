@@ -77,9 +77,10 @@ Removing decision making power actually masks problems and obscures the improvem
 
 #### Sharing Responsibility to Create Change
 
-
-#### Documentation
-
+Change occurs most rapidly when the decisions of a team impact all members of a team. 
+If code that is brittle or fails regularly impacts the team operating a system with little to impact on the team developing the system, then there will be less incentive for change.
+Teams where the work of developing and operating software share both the pain and success that comes from a system.
+Sharing responsibility prompts necessary discussions around how non-functional requirements are met and delivered.
 
 ### Architectural Practices for DevOps
 
