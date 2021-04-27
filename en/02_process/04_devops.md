@@ -71,12 +71,12 @@ Teams afraid of punishment will hide reasons for failures preventing improvement
 Celebrating and creating a culture of learning must include embracing errors and failures.
 
 For example, deployment of broken code should lead to an investigation of how the failure ocurred and how it might have been avoided.
-
-Empowered people making decisions in complex or chaotic systems will find problems
-Assume good intent
-If a fault makes it to prod, that is a failure of the system not a person.
+A culture of blame might ask, "how did a person make this mistake?" 
+A culture of learning would want to understand how a choice seemed rational and how processes might be modified to prevent a bad outcome.
+Removing decision making power actually masks problems and obscures the improvements necessary to improve process safety.
 
 #### Sharing Responsibility to Create Change
+
 
 #### Documentation
 
