@@ -9,7 +9,7 @@ for i in */ ; do
    done ;
 done | pandoc                           \
   --toc                                 \
-  --filter pandoc-citeproc              \
+  --citeproc                            \
   --bibliography=../_references.bibtex  \
   --number-sections                     \
   --top-level-division=part             \
