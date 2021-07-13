@@ -1,9 +1,9 @@
 
 
-## Journey Driven API Design
-Journey Driven API Design is a contract-first approach to API creation. Contract-first means the implementation must meet a specification. The result is customer value alignment with technology through a well documented and designed API that services multi-channel client interactions.
+## Journey-Driven API Design
+Journey-Driven API Design is a contract-first approach to API creation. Contract-first means the implementation must meet a specification. The result is customer value alignment with technology through a well documented and designed API that services multi-channel client interactions.
 
-Journey Driven API design consists of three primary phases of analysis:
+Journey-Driven API design consists of three primary phases of analysis:
 
 * Domain 
 * System 

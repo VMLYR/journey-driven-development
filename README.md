@@ -1,6 +1,6 @@
-# Journey Driven Development Book
+# Journey-Driven Development Book
 
-This repository contains the files you need to publish the Journey Driven Development book as a PDF (or other Pandoc supported output).
+This repository contains the files you need to publish the Journey-Driven Development book as a PDF (or other Pandoc supported output).
 
 ## Getting Started
 

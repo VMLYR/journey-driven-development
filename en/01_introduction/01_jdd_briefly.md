@@ -1,6 +1,6 @@
 ## JDD Briefly
 
-Journey Driven Development (JDD) is how we create software systems for clients at VMLY&R. The phrase, 'for clients,' is important to us as it reminds us that our clients judge our work not only by how it runs but also by examining its construction critically as it is developed for hire.
+Journey-Driven Development (JDD) is how we create software systems for clients at VMLY&R. The phrase, 'for clients,' is important to us as it reminds us that our clients judge our work not only by how it runs but also by examining its construction critically as it is developed for hire.
 
 We wrote JDD for ourselves, the developers, analysts, testers, architects, and operators of the software we create for our clients. We share it as we believe the lessons learned are useful to software teams generally. You don't have to code to benefit from JDD but the subject matter is technical.
 
@@ -14,7 +14,7 @@ Goals:
 2. Make it easy to learn our process.
 3. Make it easy to modify our process.
 
-### Why Journey Driven
+### Why Journey-Driven
 
 We discovered JDD and we teach it to our clients as it is easy to adopt in parts or as a holistic transformation. We’ve applied JDD for large-scale transformation efforts in automotive, telecommunications, travel, finance, transportation, and construction.
 
@@ -35,7 +35,7 @@ None of this is completely foreign. We are informed and influenced by the conver
 
 ### How We Develop
 
-Perhaps the first written version of Journey Driven Development began as a one-page brief when a team that had been high-performing began to stumble. The memo served as a starting point for many other teams to define their process.
+Perhaps the first written version of Journey-Driven Development began as a one-page brief when a team that had been high-performing began to stumble. The memo served as a starting point for many other teams to define their process.
 
 What follows is one fork of that document:
 
