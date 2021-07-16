@@ -1,6 +1,8 @@
-# Maturing the Practice : Directive vs Suggestive Approaches 
+# Maturing the Practice 
 
 Maturing a practice is a battle against decay and entropy. It requires an infusion of energy and purpose, and never happens by default. High performing development teams hold a commitment to maturation because the quality of the software depends on it. Evolving a team, starts with a decision from somewhere in the hierarchy. Identifying a path for affecting those changes can be as challenging setting the direction. Approaching the process through a combination of  directive and suggestive measures allows the practice to fulfill software quality expectations with fully invested developers who embrace team values and demonstrate ownership of results.
+
+## Directive vs Suggestive Approaches
 
 The **Directive** approach hinges on the authority to enforce a mandate and is effective when the team has little option beyond compliance. For example:
 
@@ -22,12 +24,13 @@ The **Suggestive** Approach works like harvesting a crop. There is soil to prepa
 - prepare the soil -> build trust and establish credibility, 
 - plant seeds -> sell the value of proposed evolution, and 
 - cultivate the crop -> capitalize on timely opportunities.
-A suggestive approach takes time and patience. Additionally, there is a synergistic benefit of the rich soil of trust and credibility being available for sowing other seeds. 
 
-In reality, most attempts to mature a practice will benefit from a combination of both approaches. Unit testing is a great scenario to explore. Evolving from a team that does not unit test into a team that does requires a shift in practice and values.
+A suggestive approach takes time and patience. Additionally, there is a synergistic benefit of the rich soil of trust and credibility being available for sowing other seeds. In reality, most attempts to mature a practice will benefit from a combination of both approaches.
 
 
-## Scenario: Evolve practice to include Unit Testing
+## Application Scenarios
+
+### Evolve practice to include Unit Testing
 
 **Strictly Directive Approach**: Issue an edict: All PR’s without unit tests will be rejected 
 - Many developers will feel resentment at being forced into a practice they will argue is not valuable
@@ -49,18 +52,18 @@ Because resistant team members will avoid adopting the practice, this is approac
 - Very limited avoidance or attrition
 Eventually, the practice is adopted.
 
-## Scenario With a Twist: Evolve CLIENT practice to include Unit Testing
+### Evolve CLIENT practice to include Unit Testing
 
-The twist here is that we have no authority at all to use the Directive approach within a client organization. We must rely strictly on the Suggestive strategies to influence developers to embrace unit testing and to influence client Leadership to adopt internal effective strategies. Turns out Suggestive Fluency is a Super Power, a confluence of micro acts that supports the overall objective. Every context requires its own implementation details. Here are some ideas to start with.
+The twist here is that we have no authority at all to use the Directive approach within a client organization. We must rely strictly on the Suggestive strategies to influence developers to embrace unit testing and to influence client Leadership to adopt internal effective strategies. Turns out **Suggestive Fluency is a Super Power**, a confluence of micro actions pointing to the overall objective. Every context requires its own implementation details. Here are some ideas to start with.
 
-### Prepare the Soil
+#### Prepare the Soil
 | Goal                      | Lead to Lead | Dev to Dev                                                                                                                                                                                                                   |
 |---------------------------|--------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Build Trust               |              | Make it abundantly clear that our goal is to make the client's life easier and project better<br><br>Demonstrate an urgency to relieve client devs' pressure points<br><br>Work on personal connections with all client devs |
 | Establish Credibility     |              | Walk the walk. Include unit tests in all PR’s, with exceptionally rare exceptions<br><br>Drop everything if someone wants to pair. Drop everything faster if someone wants to pair on testing<br><br>Demonstrate a willingness to do the heavy lifting of establishing a practice of testing<br><br>Communicate personal story of learning to unit |
 | Avoid Harming Environment |              | Do nothing that could possibly communicate an attitude of superiority<br><br>Never diminish the objections to the challenges of testing<br><br>Readily acknowledge the learning curve for testing is an investment<br><br>Avoid sounding righteous about testing. A good technique is to “blame” VMLYR leadership for the requirement to test:  “We’re graded on testing our code” |
 
-### Plant the Seeds
+#### Plant the Seeds
 | Goal                                     | Lead to Lead | Dev to Dev                                                                                                                                                                                                                   |
 |------------------------------------------|--------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Testing is beneficial for developers     |              | Identify and respond to the primary objections to testing by facilitating group discussions |
@@ -69,7 +72,7 @@ The twist here is that we have no authority at all to use the Directive approach
                                                             
 
 
-### Cultivate: capitalize on timely opportunities
+#### Cultivate: capitalize on timely opportunities
 | Goal                      | Lead to Lead | Dev to Dev                                                                                                                                                                                                                   |
 |---------------------------|--------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Retros                    |              | Since retros produce action items, this is a great place to talk about anything related to lack of testing<br><br>Celebrate improvements in testing |
@@ -77,4 +80,3 @@ The twist here is that we have no authority at all to use the Directive approach
 | New Hires                 |              | Develop allies by onboarding new client hires and incorporating pairing and testing into their orientation |
 | PR Reviews                |              | In the comments of PR’s without tests, provide code snippets for adding tests or offer to pair for writing tests to cover the work.<br><br>Withhold PR approval if there are no tests. Important to read the room here and time this well. Under certain conditions, this could be perceived as aggressive and do more harm than good. |
                                              
-                                                                                                                                                                                                                           |
