@@ -149,9 +149,26 @@ Regularly make statements that assume the change will be implemented:
 
 #### Cultivate: Capitalize on Timely Opportunities
 
-| Goal                      | Lead to Lead | Dev to Dev                                                                                                                                                                                                                   |
-|---------------------------|--------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Retros                    |              | Since retros produce action items, this is a great place to talk about anything related to lack of testing<br><br>Celebrate improvements in testing |
-| Light Sprints             |              | Identify tech debt that could promote unit testing.  Get tickets created, and lobby for that work to be included in Sprints |
-| New Hires                 |              | Develop allies by onboarding new client hires and incorporating pairing and testing into their orientation |
-| PR Reviews                |              | In the comments of PR’s without tests, provide code snippets for adding tests or offer to pair for writing tests to cover the work.<br><br>Withhold PR approval if there are no tests. Important to read the room here and time this well. Under certain conditions, this could be perceived as aggressive and do more harm than good. |
+We have four opportunities to capitalize on when cultivating:
+
+1. Retros
+2. Light Sprints
+3. New Hires
+4. PR Reviews
+
+##### Retros
+
+Since retros produce action items, this is a great place to talk about anything related to lack of testing.
+
+Celebrate improvements in testing.
+##### Light Sprints
+
+Identify tech debt that could promote unit testing.  Get tickets created, and lobby for that work to be included in sprints.
+##### New Hires
+
+Develop allies by onboarding new client hires and incorporating pairing and testing into their orientation.
+##### PR Reviews
+
+In the comments of PR’s without tests, provide code snippets for adding tests or offer to pair for writing tests to cover the work.
+
+Withhold PR approval if there are no tests. Important to read the room here and time this well. Under certain conditions, this could be perceived as aggressive and do more harm than good.
