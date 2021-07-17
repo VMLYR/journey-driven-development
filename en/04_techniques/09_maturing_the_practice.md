@@ -119,11 +119,33 @@ Avoid sounding righteous about testing. A good technique is to “blame” VMLYR
 
 #### Plant the Seeds
 
-| Goal                                     | Lead to Lead | Dev to Dev                                                                                                                                                                                                                   |
-|------------------------------------------|--------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Testing is beneficial for developers     |              | Identify and respond to the primary objections to testing by facilitating group discussions |
-| Developers Own the Code Quality/Success  |              | Make a concerted effort to replace 3rd person pronouns with 1st person pronouns: <br>•	THEY should -> WE should<br>•	The Business wants -> WE want<br>•	QA’s bugs -> OUR bugs<br><br>Move from “we are victims of this mess” to “we are mastering this domain” |
-| Unit Testing is inevitable               |              | Regularly make statements that assume the change will be implemented: <br><br>“When we have better test coverage, we won’t have so many bug fixes regressing”<br><br>“When we have better test coverage, we’ll be able to make these changes easier” <br><br>“Your job is going to be so much easier when our coverage improves” |
+We have 3 goals when planting the seeds:
+
+1. Testing is beneficial for developers
+2. Developers Own the Code Quality/Success
+3. Unit Testing is inevitable
+
+##### Testing is beneficial for developers
+
+Identify and respond to the primary objections to testing by facilitating group discussions
+##### Developers Own the Code Quality/Success
+
+Make a concerted effort to replace 3rd person pronouns with 1st person pronouns: 
+
+- THEY should -> WE should
+- The Business wants -> WE want
+- QA’s bugs -> OUR bugs
+
+Move from “we are victims of this mess” to “we are mastering this domain”
+##### Unit Testing is inevitable
+
+Regularly make statements that assume the change will be implemented:
+
+“When we have better test coverage, we won’t have so many bug fixes regressing”
+
+“When we have better test coverage, we’ll be able to make these changes easier” 
+
+“Your job is going to be so much easier when our coverage improves”
 
 #### Cultivate: Capitalize on Timely Opportunities
 
