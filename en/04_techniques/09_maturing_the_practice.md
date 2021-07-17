@@ -32,14 +32,11 @@ The _suggestive_ approach works like harvesting a crop. There is soil to prepare
 
 A suggestive approach takes time and patience. Additionally, there is a synergistic benefit of the rich soil of trust and credibility being available for sowing other seeds. In reality, most attempts to mature a practice will benefit from a combination of both approaches.
 
-## Application Scenarios
+## Example: Increase Unit Testing Adoption
 
-Let's compare two scenarios:
+You want to increase adoption of unit testing. First consider evolving your internal practice where you have authority to set a directive and then consider evolving your client's practice where you might not be able to set a directive.
 
-1. Evolve Practice to Include Unit Testing
-2. Evolve Our Client's Practice to Include Unit Testing
-
-### Evolve Practice to Include Unit Testing
+### Evolve Our Practice
 
 How might we evolve our practice to include more unit testing. Consider three approaches:
 
