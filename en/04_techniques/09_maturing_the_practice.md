@@ -82,11 +82,40 @@ Turns out suggestive fluency is a super power. A confluence of micro actions poi
 
 #### Prepare the Soil
 
-| Goal                      | Lead to Lead | Dev to Dev                                                                                                                                                                                                                   |
-|---------------------------|--------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Build Trust               |              | Make it abundantly clear that our goal is to make the client's life easier and project better<br><br>Demonstrate an urgency to relieve client devs' pressure points<br><br>Work on personal connections with all client devs |
-| Establish Credibility     |              | Walk the walk. Include unit tests in all PR’s, with exceptionally rare exceptions<br><br>Drop everything if someone wants to pair. Drop everything faster if someone wants to pair on testing<br><br>Demonstrate a willingness to do the heavy lifting of establishing a practice of testing<br><br>Communicate personal story of learning to unit |
-| Avoid Harming Environment |              | Do nothing that could possibly communicate an attitude of superiority<br><br>Never diminish the objections to the challenges of testing<br><br>Readily acknowledge the learning curve for testing is an investment<br><br>Avoid sounding righteous about testing. A good technique is to “blame” VMLYR leadership for the requirement to test:  “We’re graded on testing our code” |
+We have 3 goals when preparing the soil:
+
+1. Build trust
+2. Establish credibility
+3. Avoid harming the environment
+
+##### Build Trust
+
+Make it abundantly clear that our goal is to make the client's life easier and project better
+
+Demonstrate an urgency to relieve client devs' pressure points
+
+Work on personal connections with all client devs
+
+##### Establish Credibility
+
+Walk the walk. Include unit tests in all PR’s, with exceptionally rare exceptions
+
+Drop everything if someone wants to pair. Drop everything faster if someone wants to pair on testing<
+
+Demonstrate a willingness to do the heavy lifting of establishing a practice of testing
+
+Communicate personal story of learning to unit
+
+##### Avoid Harming Environment
+
+Do nothing that could possibly communicate an attitude of superiority
+
+Never diminish the objections to the challenges of testing
+
+Readily acknowledge the learning curve for testing is an investment
+
+Avoid sounding righteous about testing. A good technique is to “blame” VMLYR leadership for the requirement to test:  “We’re graded on testing our code”
+
 
 #### Plant the Seeds
 
