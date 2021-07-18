@@ -128,6 +128,7 @@ We have 3 goals when planting the seeds:
 ##### Testing is beneficial for developers
 
 Identify and respond to the primary objections to testing by facilitating group discussions
+
 ##### Developers Own the Code Quality/Success
 
 Make a concerted effort to replace 3rd person pronouns with 1st person pronouns: 
@@ -137,6 +138,7 @@ Make a concerted effort to replace 3rd person pronouns with 1st person pronouns:
 - QA’s bugs -> OUR bugs
 
 Move from “we are victims of this mess” to “we are mastering this domain”
+
 ##### Unit Testing is inevitable
 
 Regularly make statements that assume the change will be implemented:
@@ -161,12 +163,15 @@ We have four opportunities to capitalize on when cultivating:
 Since retros produce action items, this is a great place to talk about anything related to lack of testing.
 
 Celebrate improvements in testing.
+
 ##### Light Sprints
 
 Identify tech debt that could promote unit testing.  Get tickets created, and lobby for that work to be included in sprints.
+
 ##### New Hires
 
 Develop allies by onboarding new client hires and incorporating pairing and testing into their orientation.
+
 ##### PR Reviews
 
 In the comments of PR’s without tests, provide code snippets for adding tests or offer to pair for writing tests to cover the work.
