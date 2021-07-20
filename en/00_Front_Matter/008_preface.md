@@ -1,7 +1,7 @@
 
-<!--A preface is an introduction to the book that is written by the author. It usually covers how the publication came into being, where the idea for the book came from, etc.-->
-
 ## Preface
+
+<!--A preface is an introduction to the book that is written by the author. It usually covers how the publication came into being, where the idea for the book came from, etc.-->
 
 We create scaled software systems for clients. Our process is organic and ever-changing; created, modified, and reborn by hundreds of 5-9 person teams over decades delivering software systems.
 
