@@ -12,7 +12,7 @@ Physical manufacturing turns raw materials into finished goods for sale.
 The raw materials for software are business hypothesis resulting from insights into customer journeys.
 The IT value stream describes the process to convert business hypotheses into working software.
 DevOps uses techniques from the Lean and Toyota Kata movements to optimize the IT value stream the way those techniques optimized physical manufacturing.
-Gene Kim, author of *The Pheonix Project* describes the "three ways" essential for all DevOps practices.
+Gene Kim, author of *The Phoenix Project* describes the "three ways" essential for all DevOps practices.
 
 The Three Ways:
 
@@ -70,8 +70,8 @@ When communication around intent and purpose is not clear enough or when teams m
 Teams afraid of punishment will hide reasons for failures preventing improvements that might prevent future failures.
 Celebrating and creating a culture of learning must include embracing errors and failures.
 
-For example, deployment of broken code should lead to an investigation of how the failure ocurred and how it might have been avoided.
-A culture of blame might ask, "how did a person make this mistake?" 
+For example, deployment of broken code should lead to an investigation of how the failure occurred and how it might have been avoided.
+A culture of blame might ask, "how did a person make this mistake?"
 A culture of learning would want to understand how a choice seemed rational and how processes might be modified to prevent a bad outcome.
 Removing decision making power actually masks problems and obscures the improvements necessary to improve process safety.
 
@@ -89,9 +89,11 @@ Optimal solutions require teams with multiple disciplines and different experien
 What is obvious to one architect as a serious risk, may look completely non-consequential to others.
 
 #### Cooperative Design and Peer Review
+
 Fed by culture of distributed 
 
 #### Architecting for Resiliency 
+
 Observability
 
 #### 
@@ -113,9 +115,9 @@ Short-lived branches reduce the batch sizes of changes coming back into the main
 
 #### Infrastructure as Code (IAC)
 
-
 #### Instrumentation
-Code needs to be intrumented in order to allow teams to observe behaviors coming out of a system
+
+Instrument code to observe behaviors coming out of a system.
 
 ### Metrics for DevOps
 
@@ -124,9 +126,7 @@ Code needs to be intrumented in order to allow teams to observe behaviors coming
 1. Mean Time to Recover (MTTR)
 1. Change fail percentage
 
-
-
 See also:
 
 1. *The DevOps Handbook: How to Create World-Class Agility, Reliability, & Security in Technology Organizations*, Gene Kim, Jez Humble, Patric Debois & John Willis
-1. *The Phoenix Project: A Novel about IT, DevOps, and Helping Your Business Win*, Gene Kim, Keven Behr, and George Spafford 
+1. *The Phoenix Project: A Novel about IT, DevOps, and Helping Your Business Win*, Gene Kim, Keven Behr, and George Spafford
