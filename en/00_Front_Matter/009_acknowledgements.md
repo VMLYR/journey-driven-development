@@ -10,6 +10,7 @@ Thanks to [Billie Thompson (a.k.a., PurpleBooth)](https://github.com/PurpleBooth
 
 Many people contributed content to this book.  A  comprehensive list can be derived from the git history of our project, but what follows are some authors and sections:
 
+1. Chandler, Preston [Agile at VMLY&R](/en/02_process/03_agile_at_vmlyr.md)
 1. Heryer, John: [Journey Driven API Design](/en/04_techniques/08_journey_driven_api_design.md)
 1. Martin, Jennifer: [Maturing the Practice](/en/04_techniques/09_maturing_the_practice.md)
 1. Sykes, Jeff: [DevOps](/en/02_process/04_devops.md)
