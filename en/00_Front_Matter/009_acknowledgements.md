@@ -8,7 +8,7 @@ Discovered after we started that [Daniele Dellafiore](https://medium.com/@ildell
 
 Thanks to [Billie Thompson (a.k.a., PurpleBooth)](https://github.com/PurpleBooth) for providing the starter contributing.md template, which we took from [Good-CONTRIBUTING.md-template.md](https://gist.github.com/PurpleBooth/b24679402957c63ec426).
 
-Many people contributed content to this book.  A  comprehensive list can be derived from the git history of our project, but what follows are some authors and sections:
+Many people contributed content to this book.  A  comprehensive list can be derived from the git history of our project, but what follows are some specific authors and sections (apologies for any omissions):
 
 1. Chandler, Preston [Agile at VMLY&R](/en/02_process/03_agile_at_vmlyr.md)
 1. Heryer, John: [Journey Driven API Design](/en/04_techniques/08_journey_driven_api_design.md)
