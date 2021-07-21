@@ -1,77 +1,30 @@
-# Journey-Driven Development Book
+# Journey-Driven Development
 
 This repository contains the files you need to publish the Journey-Driven Development book as a PDF (or other Pandoc supported output).
 
-You can also browse the content as [hypertext here in English (en)](en/01_introduction/01_jdd_briefly.md). You can also download the book and build an EPUB or self-contained HTML (again with Pandoc).
+# Table of Contents
 
-## Getting Started
-
-Follow these instructions to download the source files, install prerequisite software, and generate PDF output.
-
-### Prerequisites
-
-Pandoc and TeX.
-
-<!--todo: finish--> 
- - [Install pandocs](https://pandoc.org/installing.html)
- - [Install latex](https://www.latex-project.org/get/)
-
-To Build on Mac
-
-From local repository root>sh build.sh
-
-```
->sh build.sh
-```
-Script will:
- - Remove old A_JDD_Book.pdf
- - Rebuild the book
- - Dump to the same location and name
-
-You should now see A_JDD_Book.pdf in your directory.
-
-Open and validate changes are as you expected.
-
-_More to come..._
-
-<!-- todo: Write ## Publishing
-
-Need to add this as a cross platform script (python perhaps) or create a Powershell version for Windows users.
-
-A step by step series of examples that tell you how to get a development env running
-
-Say what the step will be
-
-```
-Give the example
-```
-
-And repeat
-
-```
-until finished
-```
--->
-
-## Built With
-
-* [Pandoc](https://pandoc.org/)
-
-<!-- todo: Write ## Contributing 
-
-Please read [CONTRIBUTING.md](CONTRIBUTING.md) for details on our code of conduct, and the process for submitting pull requests to us.
--->
-
-<!-- todo: Write ## Versioning
-
-We use [SemVer](http://semver.org/) for versioning. For the versions available, see the [tags on this repository](https://github.com/your/project/tags). 
--->
+1. [Introduction - JDD Briefly](en/01_introduction/01_jdd_briefly.md)
+2. Processes
+  1. [Journey of the Process](en/02_process/01_journey_of_the_process.md)
+  2. [Agile at VMLY&R](en/02_process/02_agile_at_vmlyr.md)
+  3. [DevOps](en/02_process/03_devops.md)
+3. Architecture
+  1. [API Forward](en/03_architecture/11_api_forward.md)
+  2. [Content Rocket](en/03_architecture/13_content_rocket.md)
+4. Techniques
+  1. [Journey-Driven API Design](en/04_techniques/08_journey_driven_api_design.md)
+  2. [Maturing the Practice](en/04_techniques/09_maturing_the_practice.md)
 
 ## Authors
 
 * [David Mitchell](https://github.com/davidmitchell)
 
 See also the list of [contributors](https://github.com/VML/journey-driven-development/graphs/contributors) who participated in this project.
+
+## Building the book
+
+[Instructions for creating a PDF of this book](build.md) (or other formats).
 
 ## License
 
