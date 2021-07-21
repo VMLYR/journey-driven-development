@@ -6,15 +6,15 @@ This repository contains the files you need to publish the Journey-Driven Develo
 
 1. [Introduction - JDD Briefly](en/01_introduction/01_jdd_briefly.md)
 2. Processes
-  1. [Journey of the Process](en/02_process/01_journey_of_the_process.md)
-  2. [Agile at VMLY&R](en/02_process/02_agile_at_vmlyr.md)
-  3. [DevOps](en/02_process/03_devops.md)
+    1. [Journey of the Process](en/02_process/01_journey_of_the_process.md)
+    2. [Agile at VMLY&R](en/02_process/02_agile_at_vmlyr.md)
+    3. [DevOps](en/02_process/03_devops.md)
 3. Architecture
-  1. [API Forward](en/03_architecture/11_api_forward.md)
-  2. [Content Rocket](en/03_architecture/13_content_rocket.md)
+    1. [API Forward](en/03_architecture/11_api_forward.md)
+    2. [Content Rocket](en/03_architecture/13_content_rocket.md)
 4. Techniques
-  1. [Journey-Driven API Design](en/04_techniques/08_journey_driven_api_design.md)
-  2. [Maturing the Practice](en/04_techniques/09_maturing_the_practice.md)
+    1. [Journey-Driven API Design](en/04_techniques/08_journey_driven_api_design.md)
+    2. [Maturing the Practice](en/04_techniques/09_maturing_the_practice.md)
 
 ## Authors
 
