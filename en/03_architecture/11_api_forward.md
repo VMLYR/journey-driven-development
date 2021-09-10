@@ -34,8 +34,8 @@ When logically organizing architectural components for modern marketing, several
 
 When developing an API, several patterns emerge:
 
-1. Implementation First (a.k.a Reference Implmenentation). The implementation is the specification. API Forward recommends coding an implementation, which sounds more like...
-1. API First (a.k.a. Contract First, Design By Contract). The implementation must meet the specification. API Forward leverages the technical approach [API First](https://swagger.io/resources/articles/adopting-an-api-first-approach/) in that we sketch a front-end UI design to translate the end-user's needs to an API endpoint. 
+1. Implementation First (a.k.a Reference Implementation). The implementation is the specification. API Forward recommends coding against a specification, which sounds more like...
+1. API First (a.k.a. Contract First, Design By Contract). The implementation must meet the specification. API Forward leverages the technical approach [API First](https://swagger.io/resources/articles/adopting-an-api-first-approach/) in that we sketch a front-end UI design to translate the end-user's needs to an API endpoint.
 1. API Forward or something similar. Methods like [Responsibility-driven design (RDD)](https://en.wikipedia.org/wiki/Responsibility-driven_design) and [Domain-Driven design](https://en.wikipedia.org/wiki/Responsibility-driven_design) (in particular the idea of [Ubiquitous Language](https://martinfowler.com/bliki/UbiquitousLanguage.html)), may yield an API similar to one aligned with API Forward. Use API Forward as an iterative approach aligned with modern marketing.
 
 When: Adding transactions. Also consider in conversational commerce, as conversations are transactional as well.
