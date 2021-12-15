@@ -1,4 +1,4 @@
-rm A_JDD_Book.pdf ; 
+[ -e A_JDD_Book.pdf ] && rm A_JDD_Book.pdf ; 
 cd en ;
 for i in */ ; do
    #echo "# ${i%/}" ;
@@ -9,7 +9,7 @@ for i in */ ; do
    done ;
 done | pandoc                           \
   --toc                                 \
-  --filter pandoc-citeproc              \
+  --citeproc                            \
   --bibliography=../_references.bibtex  \
   --number-sections                     \
   --top-level-division=part             \
