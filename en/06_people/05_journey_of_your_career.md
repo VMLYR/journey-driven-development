@@ -65,6 +65,4 @@ With your brand and the where to communicate, start pushing content regularly. B
 
 But wait! Now you are typecast for a specific thing, what about other work you may want to do? This is a great point, luckily humans easily fall prey to the halo effect, essentially, if you are seen as good at something - people assume you are good at other things related to it. This means you can build on this effect, adjust your brand and pick the next thing you want to be known for!
 
-There is a lot here and it ended up being longer than I expected, but the topic is far from completely explored!
-
-If you have questions or suggestions for improvements, let me know in the comments or you can reach out to me directly!
+You are great and it is important to show others!
