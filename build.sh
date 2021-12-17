@@ -8,7 +8,7 @@ for i in */ ; do
       echo ; 
    done ;
 done | pandoc                           \
-  --toc                                 \
+  --toc                                 \                            \
   --citeproc                            \
   --bibliography=../_references.bibtex  \
   --number-sections                     \
