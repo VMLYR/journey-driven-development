@@ -10,7 +10,7 @@ Follow these instructions to download the source files, install prerequisite sof
 
 ### Prerequisites
 
-Pandoc and TeX.
+Pandoc and TeX:
 
 <!--todo: finish--> 
  - [Install pandocs](https://pandoc.org/installing.html)
