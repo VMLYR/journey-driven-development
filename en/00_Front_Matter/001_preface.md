@@ -17,8 +17,6 @@ Goals:
 2. Make it easy to learn our process.
 3. Make it easy to modify our process.
 
-### Why Journey-Driven
-
 We discovered JDD and we teach it to our clients as it is easy to adopt in parts or as a holistic transformation. We’ve applied JDD for large-scale transformation efforts in automotive, telecommunications, travel, finance, transportation, and construction.
 
 JDD begins with API Forward, which simplifies complex systems integration. API Forward is event-driven, focusing on the events arising from the user journey. We map these events through lightweight orchestration via a forward facing facade. We implement the facade in a messaging system. That keeps the complexity of transactions away from our experience platform. See API Forward topic for details. <!-- todo: add link -->
@@ -36,13 +34,11 @@ None of this is completely foreign. We are informed and influenced by the conver
 1. Behavior Driven Development (BDD)
 1. Test Driven Development (TDD)
 
-### How We Develop
-
 Perhaps the first written version of Journey-Driven Development began as a one-page brief when a team that had been high-performing began to stumble. The memo served as a starting point for many other teams to define their process.
 
 What follows is one fork of that document:
 
-#### Start
+### Start
 
 The team begins when a technical lead and a project manager estimate the effort and staff the team.
 
@@ -52,7 +48,7 @@ The team begins when a technical lead and a project manager estimate the effort 
 - PM and tech lead ensure team and individual accountability for hitting dates and budget. Be creative and escalate as needed.
 - The tech lead validates dev team progress, setting estimates (and resetting remaining work as needed).
 
-#### Execute
+### Execute
 
 The team uses a project page or wiki to ensure up-to-date versions of these key artifacts are available to the entire team. 
 
@@ -69,19 +65,19 @@ The entire team:
 - Refers to the above in their daily stand up using measurement language (e.g., “Yesterday I reviewed 3 requirements and I plan to finish 80% of 1 today”).
 - Ensures the plan is realistic based on the estimated backlog and team velocity . 
 
-#### Automate
+### Automate
 
 - Automate builds
 - Automate tests - you don't need to test everything, but complex areas should have regression tests.
 - Automate deployment
 
-#### Review
+### Review
 
 Review regularly. Pairing is faster than working alone and improves initial quality. Regular pairing gives us a structure for regular and frequent code review. Review before commit: All code has at least a cursory peer review before commit. This arises naturally during paring, but can happen otherwise.
 
 Ensure that VML solutions architects conduct an Architectural Review at the beginning of every project and again just before launch. Long projects may warrant additional review.
 
-#### Ensure
+### Ensure
 
 - Quality is the responsibility of everyone on the team.
 
@@ -91,7 +87,7 @@ Key points
 - Developers list incomplete or broken items from key documents in QA request.
 - Requirements changes appear with screenshots in the test plan.
 
-#### Demonstrate
+### Demonstrate
 
 Demonstrate your running system often (at least every two weeks). To the final client is better but an internal demo is better than no demo. At the end of the demo, revalidate the plan and budget. PM and Tech Lead are mandatory. 
 
