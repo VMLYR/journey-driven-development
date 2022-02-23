@@ -88,6 +88,7 @@ We need to recognize that architectural decisions are also a shared discipline.
 Optimal solutions require teams with multiple disciplines and different experiences.
 What is obvious to one architect as a serious risk, may look completely non-consequential to others.
 
+<!-- 
 #### Cooperative Design and Peer Review
 
 Fed by culture of distributed 
@@ -96,9 +97,9 @@ Fed by culture of distributed
 
 Observability
 
-#### 
 preparing for innovation or open to innovation
 distributed, can change and grow over time, scalable, maintainable
+-->
 
 ### Technical Practices for DevOps
 

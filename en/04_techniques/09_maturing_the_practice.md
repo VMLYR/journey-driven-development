@@ -1,4 +1,4 @@
-# Maturing the Practice
+## Maturing the Practice
 
 Maturing a practice is a battle against decay and entropy. You require an infusion of energy and purpose; maturation never happens by default. High performing development teams hold a commitment to maturation because the quality of the software depends on it.
 
@@ -6,7 +6,7 @@ Evolving a team starts with a decision from somewhere in the hierarchy. Identify
 
 Approach the process with a combination of directive and suggestive measures to allow the practice to fulfill software quality expectations with fully invested developers who embrace team values and demonstrate ownership of results.
 
-## Directive vs Suggestive Approaches
+### Directive vs Suggestive Approaches
 
 The _directive_ approach hinges on the authority to enforce a mandate and is effective when the team has little option beyond compliance. For example:
 
@@ -32,11 +32,11 @@ The _suggestive_ approach works like harvesting a crop. There is soil to prepare
 
 A suggestive approach takes time and patience. Additionally, there is a synergistic benefit of the rich soil of trust and credibility being available for sowing other seeds. In reality, most attempts to mature a practice will benefit from a combination of both approaches.
 
-## Example: Increase Unit Testing Adoption
+### Example: Increase Unit Testing Adoption
 
 You want to increase adoption of unit testing. First consider evolving your internal practice where you have authority to set a directive and then consider evolving your client's practice where you might not be able to set a directive.
 
-### Evolve Our Practice
+#### Evolve Our Practice
 
 How might we evolve our practice to include more unit testing. Consider three approaches:
 
@@ -70,7 +70,7 @@ Because resistant team members avoid adopting the practice, this is approach is 
 
 Eventually, we adopt the practice fully.
 
-### Evolve Our Client's Practice to Include Unit Testing
+#### Evolve Our Client's Practice to Include Unit Testing
 
 The twist here is that we lack direct authority to use the directive approach within a client organization. We begin with suggestive strategies to influence developers to embrace unit testing and to influence client leadership to eventually include directive strategies. 
 
@@ -80,7 +80,7 @@ Turns out suggestive fluency is a super power. A confluence of micro actions poi
 2. Plant the seeds
 3. Cultivate: Capitalize on timely opportunities
 
-#### Prepare the Soil
+##### Prepare the Soil
 
 We have 3 goals when preparing the soil:
 
@@ -88,7 +88,7 @@ We have 3 goals when preparing the soil:
 2. Establish credibility
 3. Avoid harming the environment
 
-##### Build Trust
+###### Build Trust
 
 Make it abundantly clear that our goal is to make the client's life easier and project better
 
@@ -96,7 +96,7 @@ Demonstrate an urgency to relieve client devs' pressure points
 
 Work on personal connections with all client devs
 
-##### Establish Credibility
+###### Establish Credibility
 
 Walk the walk. Include unit tests in all PR’s, with exceptionally rare exceptions
 
@@ -106,7 +106,7 @@ Demonstrate a willingness to do the heavy lifting of establishing a practice of 
 
 Communicate personal story of learning to unit
 
-##### Avoid Harming Environment
+###### Avoid Harming Environment
 
 Do nothing that could possibly communicate an attitude of superiority
 
@@ -117,7 +117,7 @@ Readily acknowledge the learning curve for testing is an investment
 Avoid sounding righteous about testing. A good technique is to “blame” VMLYR leadership for the requirement to test:  “We’re graded on testing our code”
 
 
-#### Plant the Seeds
+##### Plant the Seeds
 
 We have 3 goals when planting the seeds:
 
@@ -125,11 +125,11 @@ We have 3 goals when planting the seeds:
 2. Developers Own the Code Quality/Success
 3. Unit Testing is inevitable
 
-##### Testing is beneficial for developers
+###### Testing is beneficial for developers
 
 Identify and respond to the primary objections to testing by facilitating group discussions
 
-##### Developers Own the Code Quality/Success
+###### Developers Own the Code Quality/Success
 
 Make a concerted effort to replace 3rd person pronouns with 1st person pronouns: 
 
@@ -139,7 +139,7 @@ Make a concerted effort to replace 3rd person pronouns with 1st person pronouns:
 
 Move from “we are victims of this mess” to “we are mastering this domain”
 
-##### Unit Testing is inevitable
+###### Unit Testing is inevitable
 
 Regularly make statements that assume the change will be implemented:
 
@@ -149,7 +149,7 @@ Regularly make statements that assume the change will be implemented:
 
 “Your job is going to be so much easier when our coverage improves”
 
-#### Cultivate: Capitalize on Timely Opportunities
+##### Cultivate: Capitalize on Timely Opportunities
 
 We have four opportunities to capitalize on when cultivating:
 
@@ -158,21 +158,21 @@ We have four opportunities to capitalize on when cultivating:
 3. New Hires
 4. PR Reviews
 
-##### Retros
+###### Retros
 
 Since retros produce action items, this is a great place to talk about anything related to lack of testing.
 
 Celebrate improvements in testing.
 
-##### Light Sprints
+###### Light Sprints
 
 Identify tech debt that could promote unit testing.  Get tickets created, and lobby for that work to be included in sprints.
 
-##### New Hires
+###### New Hires
 
 Develop allies by onboarding new client hires and incorporating pairing and testing into their orientation.
 
-##### PR Reviews
+###### PR Reviews
 
 In the comments of PR’s without tests, provide code snippets for adding tests or offer to pair for writing tests to cover the work.
 

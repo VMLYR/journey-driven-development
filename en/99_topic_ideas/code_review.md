@@ -1,10 +1,10 @@
 ## Code Review
 
-#### Pull Request
+### Pull Request
 
-#### Pairing as Review
+### Pairing as Review
 
-#### Pride and Shame
+### Pride and Shame
 
-#### Like, Wish, Wonder
+### Like, Wish, Wonder
 
