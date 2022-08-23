@@ -2,7 +2,7 @@
 
 This repository contains the files you need to publish the Journey-Driven Development book as a PDF (or other Pandoc supported output).
 
-You can also browse the content as [hypertext here in English (en)](en/01_introduction/01_jdd_briefly.md). You can also download the book and build an EPUB or self-contained HTML (again with Pandoc).
+You can also browse the content as [hypertext here in English (en)](en/00_Front_Matter/001_preface.md). You can also download the book and build an EPUB or self-contained HTML (again with Pandoc).
 
 ## Getting Started
 
