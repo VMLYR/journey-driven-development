@@ -1,4 +1,4 @@
-rm A_JDD_Book.pdf ; 
+rm journey-driven-development.pdf ; 
 cd en ;
 for i in */ ; do
    #echo "# ${i%/}" ;
@@ -13,5 +13,5 @@ done | pandoc                           \
   --bibliography=../_references.bibtex  \
   --number-sections                     \
   --top-level-division=part             \
-  --output=../A_JDD_Book.pdf            \
+  --output=../journey-driven-development.pdf            \
   -

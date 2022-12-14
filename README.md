@@ -24,11 +24,11 @@ From local repository root>sh build.sh
 >sh build.sh
 ```
 Script will:
- - Remove old A_JDD_Book.pdf
+ - Remove old journey-driven-development.pdf
  - Rebuild the book
  - Dump to the same location and name
 
-You should now see A_JDD_Book.pdf in your directory.
+You should now see journey-driven-development.pdf in your directory.
 
 Open and validate changes are as you expected.
 
