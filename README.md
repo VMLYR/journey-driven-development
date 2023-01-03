@@ -6,7 +6,7 @@ If you just want to read the book, download:
 
 You can also [read online](en/00_Front_Matter/001_preface.md).
 
-This repository contains the files you need to edit, revise, translate, and [build](build.md), the Journey-Driven Development book as a PDF. You can also download the book and build an EPUB or self-contained HTML using [Pandoc](https://pandoc.org/).
+This repository contains the files you need to edit, revise, translate, and [build](build.md) the Journey-Driven Development book as a PDF. You can also download the book and build an EPUB or self-contained HTML using [Pandoc](https://pandoc.org/).
 
 ## Contributing 
 
