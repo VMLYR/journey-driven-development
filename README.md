@@ -6,48 +6,11 @@ If you just want to read the book, download:
 
 You can also [read online](en/00_Front_Matter/001_preface.md).
 
-This repository contains the files you need to edit, revise, translate, and publish the Journey-Driven Development book as a PDF. You can also download the book and build an EPUB or self-contained HTML using Pandoc.
-
-## Getting Started
-
-Follow these instructions to download the source files, install prerequisite software, and generate PDF output.
-
-### Prerequisites
-
-Pandoc and TeX.
-
-- [Install pandoc](https://pandoc.org/installing.html)
-- [Install latex](https://www.latex-project.org/get/)
-
-To Build on Mac
-
-From local repository root:
-
-```
->sh build.sh
-```
-
-Script will:
-
-- Remove old journey-driven-development.pdf
-- Rebuild the book
-- Dump to the same location and name
-
-You should now see journey-driven-development.pdf in your directory.
-
-## Built With
-
-* [Pandoc](https://pandoc.org/)
+This repository contains the files you need to edit, revise, translate, and [build](build.md), the Journey-Driven Development book as a PDF. You can also download the book and build an EPUB or self-contained HTML using [Pandoc](https://pandoc.org/).
 
 ## Contributing 
 
 Please read [CONTRIBUTING.md](CONTRIBUTING.md) for details on our code of conduct, and the process for submitting pull requests to us.
-
-## Authors
-
-* [David Mitchell](https://github.com/davidmitchell)
-
-See also the list of [contributors](https://github.com/VML/journey-driven-development/graphs/contributors) who participated in this project.
 
 ## License
 

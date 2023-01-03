@@ -1,8 +1,6 @@
 
 ## Preface - JDD Briefly
 
-<!--A preface is an introduction to the book that is written by the author. It usually covers how the publication came into being, where the idea for the book came from, etc.-->
-
 Journey-Driven Development (JDD) is how we create software systems for clients at VMLY&R. The phrase, 'for clients,' is important to us as it reminds us that our clients judge our work not only by how it runs but also by examining its construction critically as it is developed for hire.
 
 We wrote JDD for ourselves, the developers, analysts, testers, architects, and operators of the software we create for our clients. We share it as we believe the lessons learned are useful to software teams generally. You don't have to code to benefit from JDD but the subject matter is technical.
