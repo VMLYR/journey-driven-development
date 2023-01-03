@@ -2,7 +2,7 @@
 
 If you just want to read the book, download:
 
-- [journey-driven-development.pdf](https://github.com/VMLYR/journey-driven-development/raw/main/journey-driven-development.pdf). 
+- [journey-driven-development.pdf](https://github.com/VMLYR/journey-driven-development/raw/main/journey-driven-development.pdf)
 
 You can also [read online](en/00_Front_Matter/001_preface.md).
 
