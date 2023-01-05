@@ -62,7 +62,10 @@ Adding in the checkpoints, we have this complete diagram:
 ![Labeled version of the four checkpoints along with a faded version of the prior labels for the arcs Originate, Restate, Make, Reframe, Scale, and Learn.](
 snowman_07_checkpoints_in_a_process.png)
 
+<!-- 
 See also:
 
 1. Scrum
 2. [Leading Lean Software Development: Results Are not the Point]()
+
+-->
