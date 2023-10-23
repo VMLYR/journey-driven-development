@@ -1,4 +1,4 @@
-### A Brief Account of DevOps
+### DevOps at VML
 
 The DevOps journey at VML as development and operations teams searched for better ways to support the rapid pace of work in an agency.
 The scripts and manual processes that we had used were not sustainable or scalable enough to deliver as development efforts accelerated.
