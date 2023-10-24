@@ -1,7 +1,7 @@
-### DevOps at VML
+### DevOps
 
-The DevOps journey at VML as development and operations teams searched for better ways to support the rapid pace of work in an agency.
-The scripts and manual processes that we had used were not sustainable or scalable enough to deliver as development efforts accelerated.
+Our DevOps journey at VML emerged as development and operations teams searched for better ways to support the rapid pace of work in an agency.
+The scripts and manual processes were neither sustainable or scalable enough to deliver as development efforts accelerated.
 That effort started with destroying the silos that prevented teams from working together.
 Our collaboration produced automation that enabled teams to build, unit test and deploy code rapidly with greater confidence.
 As that automation matured, incremental improvements added additional testing from our Quality teams to implement stricter quality gates into application deployment pipelines.

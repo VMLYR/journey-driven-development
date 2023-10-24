@@ -1,3 +1,7 @@
+<!--
+
+too much definition and not enough about our experience with DevOps
+
 ## DevOps
 
 DevOps is a set of cultural, architectural, and technical practices for teams developing and operating the software that enables customer journeys and delivers value.
@@ -99,7 +103,7 @@ Observability
 
 preparing for innovation or open to innovation
 distributed, can change and grow over time, scalable, maintainable
--->
+
 
 ### Technical Practices for DevOps
 
@@ -131,3 +135,5 @@ See also:
 
 1. *The DevOps Handbook: How to Create World-Class Agility, Reliability, & Security in Technology Organizations*, Gene Kim, Jez Humble, Patric Debois & John Willis
 1. *The Phoenix Project: A Novel about IT, DevOps, and Helping Your Business Win*, Gene Kim, Keven Behr, and George Spafford
+
+-->
