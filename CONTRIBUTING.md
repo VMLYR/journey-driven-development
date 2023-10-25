@@ -15,3 +15,4 @@ None of the above deal with how to cite things (so we can have a nice footnotes 
 ## Pull Request Process
 
 1. You may merge the Pull Request in once you have the sign-off of two other authors, or if you do not have permission to do that, you may request the second reviewer to merge it for you.
+
