@@ -43,6 +43,8 @@ When: Adding transactions. Also consider in conversational commerce, as conversa
 
 API Forward is journey-driven. That is, it uses the the language of the customer, not the language of enterprise components; you likely have existing API endpoints that may not be written in customer language. We do not expect to rewrite them. Instead, API Forward tends to lead to a layer of orchestration aggregating and sequencing lower-level APIs. API Forward lets you leverage existing and future enterprise investment.
 
+<!-- 
+
 ### As a Pattern
 
 #### Situation
@@ -55,5 +57,4 @@ API Forward is journey-driven. That is, it uses the the language of the customer
 
 #### Accelerators
 
-<!-- See also: Versioning -->
-
+See also: Versioning -->
