@@ -22,11 +22,10 @@ In short, consider API Forward as you move from content-only websites. Specifica
 
 <!-- TODO: Cake layer diagram, rise of orchestration, MuleSoft... -->
 
-When logically organizing architectural components for modern marketing, several patterns emerge:
+We've also seen several anti-patterns emerge:
 
-1. CMS at the center<!-- Unintentional Mediator-->
-1. Stranger Danger <!-- Law of Demeter, Don't Talk to Strangers, Skipping Cake Layers-->
-1. API Forward <!-- Effective Mediator-->
+1. CMS at the center. This is an unintentional mediator that comes from starting with a content platform and building everything around it. Unless you are a traditional publisher, the content platform should not be the center of your architectural diagram. Use API Forward to create an effective mediator connecting you to your customer's needs.
+2. Stranger Danger. This happens when you don't have any mediator and can arise from simply having line of business systems provide UI directly to your customers. Sometimes referred to as violations of the what Design Patterns referred to as the Law of Demeter or more simply, Don't Talk to Strangers. In an architectural diagram, you see this as skipping cake layers in the diagram. Use API Forward to create more reuseable architectural components that aren't tied to either back-end platforms or front-end constraints.
 
 ### Forward in Time
 
