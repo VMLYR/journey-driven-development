@@ -114,7 +114,7 @@ Never diminish the objections to the challenges of testing
 
 Readily acknowledge the learning curve for testing is an investment
 
-Avoid sounding righteous about testing. A good technique is to “blame” VMLYR leadership for the requirement to test:  “We’re graded on testing our code”
+Avoid sounding righteous about testing. A good technique is to “blame” VML leadership for the requirement to test:  “We’re graded on testing our code”
 
 
 ##### Plant the Seeds

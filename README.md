@@ -18,7 +18,7 @@ This project is licensed under the Creative Commons Attribution 4.0 Internationa
 
 ## Copyright
 
-This work is copyright VMLY&R. The primary author and editor works at VMLY&R. At the time of this writing, no contributions have been accepted from anyone who does not work at VMLY&R. Our assertion of copyright does not limit your ability to create derivative works as laid out in the terms of the license.
+This work is copyright VML. The primary author and editor works at VML. At the time of this writing, no contributions have been accepted from anyone who does not work at VML. Our assertion of copyright does not limit your ability to create derivative works as laid out in the terms of the license.
 
 ## Acknowledgments
 
