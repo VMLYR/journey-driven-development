@@ -38,15 +38,13 @@ Think of the left circle as the product design process and the right circle as t
 
 In our work with clients, we actually see an even earlier process that initiates this system of flywheels:
 
-![A sideways snowman made of 3 circles, each made from two arrowhead arcs. Each circle has two checkpoints and two of the checkpoints are shared creating four total checkpoints.](
-snowman_05_three_teams_three_kinds_of_creation.png)
+![A sideways snowman made of 3 circles, each made from two arrowhead arcs. Each circle has two checkpoints and two of the checkpoints are shared creating four total checkpoints.](snowman_05_three_teams_three_kinds_of_creation.png)
 
 We call this diagram the sideways snowman. The circles increase in size as the initiation team tends to be small, the design team tends to be larger, and the engineering team tends to be the biggest (though none of these are to scale).
 
 At this point, some labels may help:
 
-![Labeled version of the prior sideways snowman with the six arcs labeled Originate, Restate, Make, Reframe, Scale, and Learn.](
-snowman_06_delivery_framework.png)
+![Labeled version of the prior sideways snowman with the six arcs labeled Originate, Restate, Make, Reframe, Scale, and Learn.](snowman_06_delivery_framework.png)
 
 Note that most projects will iterate differently but the simplest path might be:
 
@@ -59,8 +57,7 @@ You might then loop on Learn and Scale for a while before returning to Reframe. 
 
 Adding in the checkpoints, we have this complete diagram:
 
-![Labeled version of the four checkpoints along with a faded version of the prior labels for the arcs Originate, Restate, Make, Reframe, Scale, and Learn.](
-snowman_07_checkpoints_in_a_process.png)
+![Labeled version of the four checkpoints along with a faded version of the prior labels for the arcs Originate, Restate, Make, Reframe, Scale, and Learn.](snowman_07_checkpoints_in_a_process.png)
 
 <!-- 
 See also:
