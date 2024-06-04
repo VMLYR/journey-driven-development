@@ -1,6 +1,6 @@
-# Monthly Report Development Container
+# Development Container
 
-The Dockerfile in this directory creates a docker container with the necessary dependencies to build the report.
+The Dockerfile in this directory creates a docker container with the necessary dependencies to build the book.
 The container starts with a base Ubuntu 22.04 image and adds:
 
 1. Utilities (curl, sudo, git, etc.)
@@ -8,16 +8,13 @@ The container starts with a base Ubuntu 22.04 image and adds:
 1. Pandoc
 1. Python3, Pip3, Panflute (used for filters)
 
-## Visual Studio Code and a Remote Contaner
+## Visual Studio Code and a Remote Container
 
 If you have the Remote Containers extension installed, when you open the repository, you will see the following message:
 
 ![vs-code-screenshot](./vs-code-screenshot.png)
 
 Click "Repen in Container" and docker will (assuming you are logged into Docker and a member of the VML organization) pull the image down and add necessary extensions.
-If you open the terminal, it will be a shell session inside the container with the code mounted at:
-
-` /workspaces/technology-monthly-report `
 
 ## Building and Pushing the container
 
@@ -27,7 +24,7 @@ To accomodate multiple architectures this container file expects two arguments (
 
 Make sure you run this command from your workstation and do not execute it inside of a container.
 
-The build container is stored in VMLY&R's docker organizaiton repository.
+The build container is stored in VML's docker organization repository.
 The docker repository is located at [vmlyr/monthly-report](https://hub.docker.com/repository/docker/vmlyr/monthly-report).
 
 ## Using the Container
