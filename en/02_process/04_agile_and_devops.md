@@ -20,7 +20,7 @@ Traditional application delivery and deployment techniques seek to improve syste
 By controlling, documenting, and testing changes, organizations attempted to mitigate risk.
 The competing aims of Agile and preserving system stability lead many to disillusionment with Agile.
 
-The promise of Agile development practices is hampered or lost when traditional by following traditional application deployment and delivery techniques.
+The promise of Agile development practices is hampered or lost when following traditional application deployment and delivery techniques
 Unlocking the promise of Agile and enabling the kind of experimentation necessary to learn what customers want requires increasing the rate of change not slowing changes down.
 
 DevOps seeks to tear down the barriers between those responsible for developing and operating software.

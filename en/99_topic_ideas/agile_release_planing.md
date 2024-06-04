@@ -16,7 +16,7 @@ After assigning relative sizes to stories, the team goes through an exercise in 
 
 1.2 EVALUATE DISTRIBUTION
 
-Another thing we do is plotthe distribution, or the number of stories in each category to evaluate the distribution of stories. Sometimes if the team lacks enough criteria to scale stories or the scale itself is not understood, a trend may arise where “everything’s an orange” which is problematic, and shows the team needs to talk more or the scale may need to be addressed. If everything were XL that would be a similar problem too.
+Another thing we do is plot the distribution, or the number of stories in each category to evaluate the distribution of stories. Sometimes if the team lacks enough criteria to scale stories or the scale itself is not understood, a trend may arise where “everything’s an orange” which is problematic, and shows the team needs to talk more or the scale may need to be addressed. If everything were XL that would be a similar problem too.
 
 1.3 RUN SCENARIOS OF SIZINGS IN SPRINTS 
 

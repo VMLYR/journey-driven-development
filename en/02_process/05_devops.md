@@ -13,7 +13,7 @@ The technical practices include techniques for automation of application deliver
 ### Manufacturing and IT Value Stream
 
 Physical manufacturing turns raw materials into finished goods for sale.
-The raw materials for software are business hypothesis resulting from insights into customer journeys.
+The raw materials for software are business hypotheses resulting from insights into customer journeys.
 The IT value stream describes the process to convert business hypotheses into working software.
 DevOps uses techniques from the Lean and Toyota Kata movements to optimize the IT value stream the way those techniques optimized physical manufacturing.
 Gene Kim, author of *The Phoenix Project* describes the "three ways" essential for all DevOps practices.
